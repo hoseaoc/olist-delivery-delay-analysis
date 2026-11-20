@@ -1,0 +1,2 @@
+-r ../Pipeline/requirements.txt
+streamlit>=1.49,<2
